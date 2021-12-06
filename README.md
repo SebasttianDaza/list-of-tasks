@@ -1,4 +1,4 @@
-# List-of-tasks
+# List-of-tasks ❤️❤️🖥️🖥️🎶🎶
 
 Task list web application, developed with different technologies such as HTML, CSS and JS, versioned with Git.
 
@@ -15,4 +15,4 @@ Implemented:
 Set in Git Hub Pages:
 [list-of-tasks](https://sebasttiandaza.github.io/list-of-tasks/)
 
-
+Development by Sebasttian Daza 🤩🤩😎😎
