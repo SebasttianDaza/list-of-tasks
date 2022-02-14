@@ -1,18 +1,57 @@
-# List-of-tasks ❤️❤️🖥️🖥️🎶🎶
+ 
+<!-- Please update value in the {}  -->
 
-Task list web application, developed with different technologies such as HTML, CSS and JS, versioned with Git.
+<h1 align="center">GitHub Search ❤️❤️🖥️🖥️🎶🎶</h1>
 
-Implemented:
-- Layout with HTML and CSS
-- Local Storage with JS.
-- DOM modification and management
-  
-<p>
-    <img src="https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/Proyectos%2FlistOfTasks.png?alt=media&token=a1705f02-67c8-4c12-a97e-ddf2435b2af8" style='border-radius: 5px'></img>
-</p>
+<div align="center">
+  <h3>
+    <a href="https://{[your-demo-link.your-domain](https://sebasttiandaza.github.io/list-of-tasks/)}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{[your-url-to-the-solution](https://github.com/SebasttianDaza/list-of-tasks)}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://emprendeyourlifestyle.com/portafolio/">
+      Website Projects
+    </a>
+  </h3>
+</div>
 
+<!-- TABLE OF CONTENTS -->
 
-Set in Git Hub Pages:
-[list-of-tasks](https://sebasttiandaza.github.io/list-of-tasks/)
+## Table of Contents
 
-Development by Sebasttian Daza 🤩🤩😎😎
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Contact](#contact)
+
+- [Contact](#contact)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://ibb.co/6wFLL7B)
+
+Next Design...
+
+![screenshot](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/llcq9eiv3ney5tkxgdtu.jpg)
+
+Development of a app the "to-do" or "list task", I allow myself to learn more about design web, to use the localStorage, handling  the data and handling of the Date.  It allows have our task tidy acoording to the importance.
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [HTML](https://developer.mozilla.org/)
+- [CSS](https://developer.mozilla.org/)
+- [JS](https://developer.mozilla.org/)
+
+## Contact
+
+- Website [emprendeyourlifestyle](https://{[your-web-site-link](http://emprendeyourlifestyle.com/)})
+- GitHub [@sebasttiandaza](https://{github.com/sebasttiandaza})
+- Twitter [@SebasttianDaza](https://{twitter.com/SebasttianDaza})
